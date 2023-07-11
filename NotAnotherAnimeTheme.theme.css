@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://wallpaperaccess.com/full/2734813.jpg);
 
   /*
     Main Theme Color
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://i.pinimg.com/originals/fd/42/56/fd42567cdd507e7a4e4212f3f9faaf0c.jpg);
 
   /*
     Change your friends icon image position
@@ -51,9 +51,6 @@
   /*
     Server Listing Width
     Single Column:  62px
-    Double Column:  126px
-    Triple Column:  184px
-    Quad Column:    242px
   */
   --server-listing-width: 126px;
 
